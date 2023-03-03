@@ -7,6 +7,7 @@
 
 
 # Result-Summary
+# [Link here!](https://score-summary.netlify.app)
 ![Result-summary](https://user-images.githubusercontent.com/112670452/221394453-85fa3074-935a-4b45-8ac0-d38a0070d76f.PNG)
 
 # NEWS-HOMEPAGE 
